@@ -1,0 +1,15 @@
+# words_frequency
+将英语单词词频可视化，圈越大，表明该单词使用频率越高  
+
+Demo文件：展示.png   
+![demoPic](https://github.com/Tsyshiu/words_frequency/blob/master/%E5%B1%95%E7%A4%BA.png)   
+
+源代码：d3_1.html  
+
+交互性：  
+1. 当鼠标移动时，有圆圈大小、颜色上的变化  
+2. 按下键盘字母键，可以仅显示以该字母开头的单词的词频，如下图：  
+![demoPic2](https://github.com/Tsyshiu/words_frequency/blob/master/%E5%B1%95%E7%A4%BA_%E5%AD%97%E6%AF%8DA.png)  
+3. 按下Enter，返回显示全部单词的词频图   
+
+数据：来源自百度文库，本想使用csv文件，奈何没有条件，直接以字符串形式存在html文件中的text字符串中 
