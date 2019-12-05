@@ -1,0 +1,14 @@
+{
+    "name": "ftp-broker",
+    "version": "1.0.0",
+    "description": "ftp server based on mqtt broker",
+    "main": "broker.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "aedes": "^0.39.0"
+    },
+    "author": "tsyshiu",
+    "license": "ISC"
+}
