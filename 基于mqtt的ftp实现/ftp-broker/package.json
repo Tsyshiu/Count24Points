@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "aedes": "^0.39.0"
+        "aedes": "^0.42.1"
     },
     "author": "tsyshiu",
     "license": "ISC"
